@@ -9,6 +9,11 @@ h2 {
   color: black;
 }
 
+h3 {
+  color: green;
+  text align: center;
+}
+
 p {
   color: gray;
 }
